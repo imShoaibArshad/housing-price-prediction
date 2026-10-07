@@ -1,0 +1,10 @@
+{
+  "model": "ElasticNet (L1+L2), log1p target",
+  "n_train": 1166,
+  "n_test": 292,
+  "r2": 0.9175243934321896,
+  "mae_usd": 14170.13891410761,
+  "rmse_usd": 19524.65343111495,
+  "mape_pct": 8.682603888786822,
+  "median_abs_error_usd": 9298.984756872887
+}
